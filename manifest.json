@@ -1,0 +1,17 @@
+{
+  "name": "PT. NEVS TEXINDO GEMBIRA - Absensi",
+  "short_name": "Absensi NEVS",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#060911",
+  "theme_color": "#060911",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
