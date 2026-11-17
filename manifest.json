@@ -1,7 +1,10 @@
 {
+  "id": "/absensi-nevsby/",
   "name": "PT. NEVS TEXINDO GEMBIRA - Absensi",
   "short_name": "Absensi NEVS",
+  "description": "Sistem Absensi Digital Real-Time PT. NEVS TEXINDO GEMBIRA Surabaya",
   "start_url": "./index.html",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#060911",
   "theme_color": "#060911",
@@ -11,7 +14,13 @@
       "src": "icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
     }
   ]
 }
